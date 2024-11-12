@@ -1,4 +1,3 @@
-import { random } from "./random.js";
 
 const sleep = (time)=>{
     return new Promise((res,rej)=>{
